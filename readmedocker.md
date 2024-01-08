@@ -64,3 +64,24 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ```
 instalar composer
 ```
+
+## Enable PHP Firebird connection
+
+extension=php_pdo_firebird.dll
+
+## otras fuentes
+
+https://github.com/tomoyamachi/docker-laravel-fpm-7.3/tree/master
+https://github.com/nepadey/docker-laravel-sample/blob/develop/README.md
+https://medium.com/@miladev95/laravel-in-docker-e83b32962e1e
+https://medium.com/@miladev95/dockerizing-a-php-application-e3c756670336
+
+
+funcionaron 
+
+https://github.com/docker/awesome-compose/blob/master/nginx-golang-postgres/compose.yaml
+
+https://github.com/nepadey/docker-laravel-sample/blob/develop/Dockerfile
+
+https://packagist.org/packages/maatwebsite/excel#3.1.51
+https://docs.laravel-excel.com/3.1/imports/
